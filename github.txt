@@ -13,3 +13,23 @@
  				-- MERGE ( esperimento - master )
  				*experimento LOCAL
  		*master ( servidor.com ) REPO PRODUCCION
+
+
+ Sistema de Control de Versiones
+
+ FTP no es un sistema de control de versiones
+ Archivos FTP ---> Hosting   /public_html/index.php
+ www.fuckencio.com
+
+===========
+
+Github / SVN (Subversion) / TFS / Mercurial
+
+Git: Control de versiones
+Github: Web app consolida el control de versiones
+
+1. Red social de programadores
+2. Web / Apps
+3. Mucho más fácil
+
+============
